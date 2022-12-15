@@ -10,6 +10,6 @@ The extension makes use of this [ChatGPT package](https://github.com/transitive-
 
 In order to use this with VSCode, it's best to run the extension in debug mode once.
 On the initial start, you will need to authenticate with OpenAI - this requires you to login via the headless Chrome.
- 
+  
 When you are successfully authenticated, you can turn on headless mode so that the browser won't be visible.
  
